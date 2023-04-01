@@ -1,0 +1,95 @@
+body{
+    background: #e2e8f0cc !important;
+}
+.logo-img {
+    margin-right: 3.5px;
+    margin-bottom: 3.5px;
+}
+.menu{
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+
+  /* pagination bar */
+.page-item.active .page-link{
+    background-color: #222831 !important;
+    border-color: #222831;
+  }
+
+
+.post-Read-More{
+  background-color: #393E46 !important;
+  color: #ffffff;
+  
+}
+
+.post_content{
+  color: #393E46 !important;
+}
+
+a:hover, a:focus {
+  color: #393E46 !important;
+  
+}
+
+.post_card{
+  margin-top: 20px;
+}
+.write_logo{
+  filter: invert(5);
+  margin-right: 5px;
+}
+.write{
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.account{
+  margin-right: 10px;
+}
+.account_menu{
+  padding-left: 10px;
+  padding-right: 10px;
+  
+}
+
+.card_image{
+    
+}
+
+.card_title{
+  padding-top: 20px;
+  padding-bottom: 20px;
+  /* font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif; */
+
+}
+
+.card_content{
+  padding-right: 20px;
+  padding-bottom: 10px;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.px-2{
+  background-color: #FFFFFF !important;
+  
+}
+
+.hello_user{
+  font-variant: small-caps;
+  font-family:Arial;
+  font-weight: bold;
+}
+
+.post_info{
+  
+}
+
+
+
+
+/* all colors code for this website
+#EEEEEE   white      
+#00ADB5   cyan
+#393E46    grey
+#222831    dark
+
+*/
